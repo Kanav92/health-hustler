@@ -28,7 +28,7 @@ Health-Hustle is designed to help users visualize their fitness metrics using Fi
 - **Frontend**: React.js, CSS
 - **Backend**: Node.js, Express.js
 - **OAuth Integration**: Fitbit OAuth2
-- **Database (if used)**: MongoDB (optional)
+- **Database**: MongoDB
 - **Version Control**: Git + GitHub
 
 ---
