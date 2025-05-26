@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "app.js",
+      "use": "@vercel/node",
+      "config": { "includeFiles": ["dist/"] }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/callback",
+      "methods": ["GET", "POST", "OPTIONS"],
+      "dest": "app.js",
+      "headers": {
+        "Access-Control-Allow-Origin": "https://fitbit-app-frontend.vercel.app",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+        "Access-Control-Allow-Headers": "Content-Type, Authorization",
+        "Access-Control-Allow-Credentials": "true"
+      }
+    },
+    {
+      "src": "/profile",
+      "methods": ["GET", "POST", "OPTIONS"],
+      "dest": "app.js",
+      "headers": {
+        "Access-Control-Allow-Origin": "https://fitbit-app-frontend.vercel.app",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+        "Access-Control-Allow-Headers": "Content-Type, Authorization",
+        "Access-Control-Allow-Credentials": "true"
+      }
+    },
+    {
+      "src": "/(.*)",
+      "dest": "app.js"
+    }
+  ]
+}
