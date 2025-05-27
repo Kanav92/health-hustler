@@ -23,7 +23,7 @@ Health-Hustle is a full-stack fitness tracking dashboard that uses the Fitbit AP
 
 Health-Hustle is designed to help users visualize their fitness metrics using Fitbit's data, track daily goals, and participate in leaderboard-based motivation challenges. Whether you're a fitness enthusiast or just starting out, this app makes staying on track easier and more fun.
 
-<img src="./assets/user-login.png" alt="Login Screen" style="width: 100%; max-width: 900px;">
+<img src="./assests/user-login.png" alt="Health-Hustle Dashboard" width="600">
 ---
 
 ## 🧰 Tech Stack
