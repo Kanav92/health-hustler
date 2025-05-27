@@ -53,6 +53,15 @@ With the use of blockchain technology, this framework enables administrators to 
 ### 🔗 Group Info
 
 <img src="./assests/Group-i.png" alt="Health-Hustle Dashboard" width="600">
+
+Group Assignment and Competitive Elements:
+
+Once a user is authenticated through Fitbit and makes the blockchain payment, he/she gets assigned to a fitness group based on his/her actual-time health and activity metrics. This is done by matching the user's daily statistics—steps walked, calories burned, etc., and other fitness parameters of interest—to preset group target goals set by the admin for each group.
+
+Each user is rewarded points based on the extent to which they achieve or exceed these target levels. For instance, if a user exceeds their daily step goal or their calorie burn target, they gain more points. The point system encourages motivation through rewarding steady progress and good behavior.
+
+The site has a live leaderboard, displaying the rankings of users in each group according to the points they have accumulated. It presents a sense of friendly rivalry, motivating users to work even harder and succeed at their fitness goals more eagerly. Users are able to check their positions every day, so the experience is interactive and goal-oriented.
+
 <img src="./assests/Group-ii.png" alt="Health-Hustle Dashboard" width="600">
 
 ---
