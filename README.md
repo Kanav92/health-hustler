@@ -36,6 +36,16 @@ Following successful payment and authentication, the system examines the user's 
 
 <img src="./assests/Admin-add.jpeg" alt="Health-Hustle Dashboard" width="600">
 
+Administrators are chosen using a specific registration form that evaluates their knowledge and proficiency in wellness, nutrition, or fitness. Following approval, each administrator is tasked with managing one or more user groups that best fit their background and skill set.
+
+Among the administrator's primary duties are:
+
+Creating Daily Challenges: To keep users interested and motivated, administrators create and update daily fitness challenges specific to the groups they are assigned.
+
+Sharing Inspirational Quotes: Administrators post inspirational quotes every day to raise spirits and promote a positive outlook.
+
+In order to maximize users' overall fitness journey, administrators provide customized guidance on food selection, hydration, and other wellness factors based on the health data and progress of users within their groups.
+
 ### 🔗 Group Info
 
 <img src="./assests/Group-i.png" alt="Health-Hustle Dashboard" width="600">
