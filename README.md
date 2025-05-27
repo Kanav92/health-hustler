@@ -28,6 +28,8 @@ Health-Hustle is designed to help users visualize their fitness metrics using Fi
 <img src="./assests/user-login.png" alt="Health-Hustle Dashboard" width="600">
 
 There are two ways to log in to our application: admin and user. Fitbit is used to authenticate users when they log in, giving us access to real-time fitness data like steps taken, calories burned, sleep duration, and more. The user must then finish a blockchain-based payment to guarantee safe and transparent transactions.Following successful payment and authentication, the system examines the user's Fitbit data and automatically places them in a particular fitness group according to their activity levels and health indicators. By promoting goal-oriented fitness progress and community involvement, this group-based assignment helps customize the user experience.
+
+
 ---
 
 ## 🧰 Tech Stack
