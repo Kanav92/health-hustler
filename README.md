@@ -46,6 +46,10 @@ Sharing Inspirational Quotes: Administrators post inspirational quotes every day
 
 In order to maximize users' overall fitness journey, administrators provide customized guidance on food selection, hydration, and other wellness factors based on the health data and progress of users within their groups.
 
+Crucially, the administrator's pay is securely handled through blockchain payments, guaranteeing prompt, transparent, and verifiable payment for their services.
+
+With the use of blockchain technology, this framework enables administrators to play a crucial part in helping users reach their fitness objectives while upholding accountability and transparency.
+
 ### 🔗 Group Info
 
 <img src="./assests/Group-i.png" alt="Health-Hustle Dashboard" width="600">
