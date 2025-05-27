@@ -34,7 +34,7 @@ Following successful payment and authentication, the system examines the user's 
 
 ### Admin
 
-<img src="./assests/user-login.png" alt="Health-Hustle Dashboard" width="600">
+<img src="./assests/Admin-add.jpeg" alt="Health-Hustle Dashboard" width="600">
 
 
 ---
