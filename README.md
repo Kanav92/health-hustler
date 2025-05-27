@@ -64,6 +64,16 @@ The site has a live leaderboard, displaying the rankings of users in each group 
 
 <img src="./assests/Group-ii.png" alt="Health-Hustle Dashboard" width="600">
 
+Also, the admin feature comes with the privilege of offering customized wellness recommendations to individual or group users. These recommendations address key health aspects such as:
+
+Water Intake: Hydration guidelines depending on activity level.
+
+Food Intake: Calorie intake and healthy meal options advice.
+
+Sleep Duration: Advice to maximize rest and recovery for enhanced performance.
+
+By integrating data-driven group allocation, gamified competition, and professional wellness tips, the platform makes a comprehensive, interactive fitness ecosystem that helps users achieve their health objectives efficiently. goal-driven fitness improvement and social interaction.
+
 ---
 
 ## 🧰 Tech Stack
