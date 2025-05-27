@@ -101,10 +101,7 @@ By integrating data-driven group allocation, gamified competition, and professio
 - 🚶 Step counter with circular progress
 - 🔐 Fitbit OAuth authentication
 - 🏆 Leaderboard and challenges
-- 📈 Visual graphs of daily and weekly activity
 - 🩺 Health tips based on live metrics
-- 📱 Responsive design for mobile/desktop
-- 🌗 Light/Dark theme support *(optional)*
 
 ---
 
