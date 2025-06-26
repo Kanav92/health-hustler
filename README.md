@@ -109,7 +109,7 @@ By integrating data-driven group allocation, gamified competition, and professio
 
 ```bash
 # Clone the repo
-git clone https://github.com/Shivamgoyal5/Health-Hustle.git
+git clone https://github.com/Kanav92/health-hustler.git
 
 # Navigate to client and install dependencies
 cd fitbit-client-main/client
